@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/API-mapping-pagination-using-React/static/css/main.b4dff49b.chunk.css",
+    "main.js": "/API-mapping-pagination-using-React/static/js/main.43969491.chunk.js",
+    "main.js.map": "/API-mapping-pagination-using-React/static/js/main.43969491.chunk.js.map",
+    "runtime-main.js": "/API-mapping-pagination-using-React/static/js/runtime-main.514b3760.js",
+    "runtime-main.js.map": "/API-mapping-pagination-using-React/static/js/runtime-main.514b3760.js.map",
+    "static/js/2.7e103569.chunk.js": "/API-mapping-pagination-using-React/static/js/2.7e103569.chunk.js",
+    "static/js/2.7e103569.chunk.js.map": "/API-mapping-pagination-using-React/static/js/2.7e103569.chunk.js.map",
+    "index.html": "/API-mapping-pagination-using-React/index.html",
+    "static/css/main.b4dff49b.chunk.css.map": "/API-mapping-pagination-using-React/static/css/main.b4dff49b.chunk.css.map",
+    "static/js/2.7e103569.chunk.js.LICENSE.txt": "/API-mapping-pagination-using-React/static/js/2.7e103569.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.514b3760.js",
+    "static/js/2.7e103569.chunk.js",
+    "static/css/main.b4dff49b.chunk.css",
+    "static/js/main.43969491.chunk.js"
+  ]
+}
